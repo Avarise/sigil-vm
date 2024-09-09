@@ -1,0 +1,8 @@
+dasharo/coreboot
+dasharo/open-source-firmware-validation
+dasharo/osfv-scripts
+dasharo/docs
+dasharo/edk2
+dasharo/preseeds
+dasharo/flashrom
+dasharo/meta-dts
